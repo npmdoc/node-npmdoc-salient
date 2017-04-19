@@ -1,4 +1,7 @@
-# api documentation for  [salient (v0.2.1)](https://github.com/nyxtom/salient)  [![npm package](https://img.shields.io/npm/v/npmdoc-salient.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-salient) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-salient.svg)](https://travis-ci.org/npmdoc/node-npmdoc-salient)
+# npmdoc-salient
+
+#### api documentation for  [salient (v0.2.1)](https://github.com/nyxtom/salient)  [![npm package](https://img.shields.io/npm/v/npmdoc-salient.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-salient) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-salient.svg)](https://travis-ci.org/npmdoc/node-npmdoc-salient)
+
 #### Salient is a natural language processing and sentiment analysis library
 
 [![NPM](https://nodei.co/npm/salient.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/salient)
